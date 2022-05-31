@@ -34,3 +34,4 @@ if(respostaSim == 0){
     console.log('Você triunfou de maneira inquestionável e seus feitos serão lembrados por muitas gerações.')
 }
 console.log();
+
